@@ -8,6 +8,30 @@
 			"name": "Nidaros",
 			"x": 6650,
 			"z": 6401
-		}
+		},
+        {
+            "name": "Chronosia",
+            "nation": "Iris Covenant",
+            "x": 2731,
+            "z": 9192
+        },
+        {
+            "name": "NERP",
+            "nation": "Iris Covenant",
+            "x": 5394,
+            "z": 7002
+        },
+        {
+            "name": "Fort Hwak",
+            "nation": "Iris Covenant/Anisso",
+            "x": 2056,
+            "z": 9501
+        },
+        {
+            "name": "Caliga Hall",
+            "nation": "Iris Covenant",
+            "x": 2910,
+            "z": 9328
+        }
 	]
 }
