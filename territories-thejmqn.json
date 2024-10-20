@@ -1,11 +1,11 @@
 {
 	"info": { "version": "3.0.0-beta3" },
 	"id": "653785eb-bbbb-4b16-ab6e-d23ed98ea1f8",
-	"name": "Territorial Map 2024-09-06 (TheJmqn)",
+	"name": "Territorial Map 2024-10-19 (TheJmqn)",
 	"features": [
 		{
 			"id": "653785eb-bbbb-4b96-1125-d24ed97ea1f0",
-			"name": "Territorial Map 2024-09-06 (TheJmqn)",
+			"name": "Territorial Map 2024-10-19 (TheJmqn)",
 			"map_image": {
 				"url": "CivMCMap31Transparent.png",
 				"bounds": [
