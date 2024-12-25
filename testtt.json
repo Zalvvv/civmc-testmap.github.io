@@ -1,1 +1,38 @@
-{"id":"1e9c3602-8d67-4286-8979-08a9d75ca5f8","line":[[[8050,-5444],[5050,-5292],[5074,-5271],[5206,-5009],[5781,-4435],[6562,-4435],[6569,-4429],[6568,-4406]]],"color":"#ff00f3"},
+{
+	"info": { "version": "3.0.0-beta3" },
+	"id": "8e7fecc3-f335-493c-aa75-0b940b490de6",
+	"name": "Extra Data (EmmaKnijn)",
+	"features": [
+		{
+			"id": "de2f2f17-47ef-44b5-ab2f-64a58c224033",
+			"name": "Nidaros",
+            "nation": "Truidencia",
+			"x": 6650,
+			"z": 6401
+		},
+        {
+            "name": "Chronosia",
+            "nation": "Iris Covenant",
+            "x": 2731,
+            "z": 9192
+        },
+        {
+            "name": "NERP",
+            "nation": "Iris Covenant",
+            "x": 5394,
+            "z": 7002
+        },
+        {
+            "name": "Fort Hwak",
+            "nation": "Iris Covenant/Anisso",
+            "x": 2056,
+            "z": 9501
+        },
+        {
+            "name": "Caliga Hall",
+            "nation": "Iris Covenant",
+            "x": 2910,
+            "z": 9328
+        }
+	]
+}
